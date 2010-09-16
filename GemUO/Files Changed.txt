@@ -1,0 +1,7 @@
+Files changed for SA/KR support, please be careful when overriding these files, always merge:
+Mobiles/PlayerMobile.cs (SA Support, Map Support)
+Misc/CharacterCreation.cs (for face support)
+Engines/Party/Party.cs (map support)
+Misc/RaceDefinitions.cs (for face support,  (RaceDefinitions is crazy))
+Mobiles/AI/Creature/BaseCreature.cs (to fix some animal animations)
+Moongate.cs, PublicMoongate.cs, all lights (had to have a lighttype change)
