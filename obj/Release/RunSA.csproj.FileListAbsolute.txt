@@ -1,0 +1,6 @@
+C:\Users\neroptik\Desktop\GemUOsrc\GemUO\bin\Release\RunSA.exe
+C:\Users\neroptik\Desktop\GemUOsrc\GemUO\bin\Release\RunSA.pdb
+C:\Users\neroptik\Desktop\GemUOsrc\GemUO\bin\Release\Ultima.dll
+C:\Users\neroptik\Desktop\GemUOsrc\GemUO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\neroptik\Desktop\GemUOsrc\GemUO\obj\Release\RunSA.exe
+C:\Users\neroptik\Desktop\GemUOsrc\GemUO\obj\Release\RunSA.pdb
